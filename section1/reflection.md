@@ -10,37 +10,43 @@
 
 1. How would you print the string `"Hello World!"` to the terminal?
 
- puts "Hello World!" or p "Hello World!"
+```ruby
+ puts "Hello World!"
+```
 
 1. What character is used to indicate comments in a ruby file?
 
- #
+ `#`
 
 1. Explain the difference between an integer and a float?
 
- an integer is a whole number. a float is number with a decimal point
+ an `integer` is a whole number. a `float` is number with a decimal point
 
 1. In the space below, create a variable `animal` that holds the string `"zebra"`
 
+```ruby
  animal = "zebra"
+```
 
 1. How would you print the string `"zebra"` using the variable that you created above?
 
+```ruby
  p animal
+```
 
 1. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 
  Interpolation is combining several different data types into the same line of code without having to convert them all to the same data type.
-
+```ruby
  puts "The most striped mammal is a #{animal}."
-
+```
 
 1. What method is used to get input from a user?
 
- The <gets> method
+ The `gets` method
 
 1. Name and describe two common string methods:
 
- .length = calculates the total number of characters - including spaces - within a string
+ `.length` = calculates the total number of characters - including spaces - within a string
 
- .split = "splits" up a string by the spaces and gives you back an array
+ `.split` = "splits" up a string by the spaces and gives you back an array
