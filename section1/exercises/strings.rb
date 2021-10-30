@@ -13,4 +13,5 @@ p "Welcome to Turing!"
 p "99 bottles of pop on the wall..."
 
 # Write out code to log one line from your favorite song or movie.
-p "My favorite song is 'In Case of Fire' by Mark Ronson and Jeff Bhasker."
+# Song is "Music To Walk Home By" by Tame Impala
+p "Can almost hear the fun that I should be having, instead of all this dreaming."
