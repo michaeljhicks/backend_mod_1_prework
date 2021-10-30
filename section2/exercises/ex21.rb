@@ -18,7 +18,6 @@ def divide (a, b)
   return a / b
 end
 
-
 puts "Let's do some math with just functions!"
 
 age = add(30, 5)
@@ -27,7 +26,6 @@ weight = multiply(90, 2)
 iq = divide(100, 2)
 
 puts "Age: #{age}, Height: #{height}, Weight: #{weight}, IQ: #{iq}"
-
 
 # A puzzle for the extra credit
 puts "Here is the puzzle."

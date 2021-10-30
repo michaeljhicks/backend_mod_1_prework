@@ -65,7 +65,6 @@ puts "My wife loves #{ugly_truth}, but the movie 'The Ugly Truth' was pretty slo
 
 # Look at the code you wrote for the previous YOU DO🎈 - what did you name the function, and why?
 # What did you name each parameter, and why?
-
 # EXPLAIN:
-# 1 - I named the function 'bad_movie' because it accomplishes that we're going to be using bad movies, as well as using the least number of characters to communicate the focus of a bad movie
-# 2 - I chose to name each parameter after an actress and an actor who were both the lead stars of the bad movie.
+  # 1 - I named the function 'bad_movie' because it accomplishes that we're going to be using bad movies, as well as using the least number of characters to communicate the focus of a bad movie
+  # 2 - I chose to name each parameter after an actress and an actor who were both the lead stars of the bad movie.
