@@ -43,7 +43,7 @@ end
 ```
 
 1. Other than an if-statement, can you think of any other ways we might want to use a conditional statement?
-..* When you have an array and want to return true/false on several elements
+...When you have an array and want to return true/false on several elements
 
 ### Methods
 
